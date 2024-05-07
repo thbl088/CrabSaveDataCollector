@@ -8,3 +8,9 @@
 - Click on the big green button to start, it'll refresh every 5 seconds
 
 - It's only reading save file, so you won't see the change live it'll only change when u save (manual save, moon snail, death)
+
+# Info available
+
+- hp tier, fork tier, heartkelp tier, umami tier
+- Money on corpse
+- total money collected, total crystals, damage taken
